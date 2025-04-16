@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design UI",
+      "description": "Make wireframes",
+      "status": "inprogress"
+    },
+    {
+      "id": "2",
+      "title": "Connect API",
+      "description": "Integrate backend",
+      "status": "todo"
+    },
+    {
+      "id": "3",
+      "title": "Write tests",
+      "description": "Unit tests",
+      "status": "inprogress"
+    },
+    {
+      "id": "4365",
+      "title": "Dashboard Work",
+      "description": "Dashboard work- UI",
+      "status": "todo"
+    },
+    {
+      "id": "e306",
+      "title": "Firebase Project",
+      "description": "Project related to firebase",
+      "status": "done"
+    }
+  ]
+}
