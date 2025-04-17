@@ -71,3 +71,9 @@ json-server --watch db.json --port 3004
 Deploy Link : https://assignement01-backend-2.onrender.com/tasks
 
 Thanks
+
+Screenshot of Project :
+![Screenshot (44)](https://github.com/user-attachments/assets/0da0fe18-ddf8-4081-984d-dc821d222281)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/fa2dff22-0ce5-4c0a-84a7-effbaa0fba5f)
+
