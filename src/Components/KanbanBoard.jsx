@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { DragDropContext, Droppable, Draggable } from '@hello-pangea/dnd';
 
-const API_URL = 'http://localhost:3004/tasks';
+const API_URL = 'https://assignement01-backend-2.onrender.com/tasks';
 
 const statusLabels = {
   todo: 'To Do',
